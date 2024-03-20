@@ -54,7 +54,7 @@
     color:rgb(255,255,0);
 }
 .footer{
-    align-items: center;
+    text-align: center;
     color:white
 }
 .item{
@@ -63,6 +63,11 @@
 .align{
     margin: auto;
 }
+.list{
+    margin: auto;
+    display: inline;
+}
+
 #menu_h{margin:auto}
 #menu_h{float:left;width:6%; background:#eee;}
 #menu_h li{display:inline;margin:0;padding:0;}
