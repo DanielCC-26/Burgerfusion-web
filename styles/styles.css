@@ -1,0 +1,65 @@
+#back{
+    text-align: center;
+    background-color: crimson;
+}
+@font-face
+    {
+    font-family : coca;
+    src: url('../fonts/Lobster-Regular.ttf')
+    }
+    /*this font is provided by fonts2u.com*/
+@font-face
+    {
+    font-family: quotes;
+    src:url("../fonts/NK_Mono.ttf");
+    }
+     /*this font is provided by fonts2u.com*/
+@font-face
+    {
+    font-family: andalus;
+    src:url("../fonts/andalus.ttf");
+    }
+    /*this font is provided by fonts2u.com*/
+@font-face
+    {
+    font-family: alegre;
+    src: url("../fonts/alegre.ttf")
+    /*this font is provided by fonts2u.com*/
+    }
+    
+.coca{font-family: coca;}
+    h1{
+        text-align: center;
+        color: bisque;
+        text-size-adjust: 200%;
+    }
+.quotes
+    {
+    font-family: quotes;
+    text-align: center;
+    color:cyan;
+    }
+.andalus{
+    font-family: andalus;
+    text-align: center;
+    color:rgb(255,255,0);
+    }
+.times{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    }
+.alegre{
+    font-family: alegre ;
+    text-align: center;
+    color:rgb(255,255,0);
+}
+.footer{
+    text-align: center;
+    color:white
+}
+.item{
+    font-family: Philosopher
+}
+.align{
+    margin: auto;
+}
