@@ -64,7 +64,8 @@
     margin: auto;
 }
 .list{
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
     display: inline;
 }
 
