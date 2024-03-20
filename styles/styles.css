@@ -63,6 +63,7 @@
 .align{
     margin: auto;
 }
+#menu_h{align:center}
 #menu_h{float:left;width:4%; background:#eee;}
 #menu_h li{display:inline;margin:0;padding:0;}
 #menu_h a {float:left;display:block;margin:1px;padding:5px;text-decoration:none;color:#000;border-top-right-radius:8px;background-color:#ccc;}
